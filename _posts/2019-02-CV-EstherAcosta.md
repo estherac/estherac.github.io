@@ -55,55 +55,6 @@ professional:
    location-link: 
    description: "Descipción."
 
- - name: Puesto
-   title: Responsabilidad @ Empresa
-   start: Dic. 20XX
-   end: Jun. 20XX
-   location: Madrid, ES
-   location-link: 
-   description: "Descripción."
-
-education:
- - name: Máster en Virología (Especialidad Humana)
-   title: Título tesis de máster ``
-   start: 2014
-   end: 2015
-   location: Universidad Complutense de Madrid, Madrid, ES
-   location-link: 
-   description: "Descripción."
-
- - name: Grado en Biología
-   title: Título proyecto final de carrera `XXX`
-   start: 2009
-   end: 2013
-   location: Universidad de Córdoba (UCO), Córdoba, ES
-   location-link: 
-   description: "Descripción."
-
-publications:
- - title: "Título"
-   authors: Esther Acosta Cumplido, otros autores
-   year: 2018
-   venue: Revista, Congreso
-   where: Lugar, Fecha
-   description: "Descripción."
-   pdf: "xx.pdf"
-   
- - title: "Título"
-   authors: Esther Acosta Cumplido, otros autores
-   year: 2017
-   venue: Revista, Congreso
-   where: Lugar, Fecha
-   description: "Descripción."
-   pdf: "xx.pdf"
-
-misc:
- - title: "Coorganizadora de..."
-   authors: "Esther Acosta Cumplido, y otros"
-   year: 2015
-   venue: "Universidad Complutense de Madrid"
-   where: Madrid, España, Septiembre 27, 2015
-   description: "Descripción."
 ---
 
 <div><p class="only-print">Web personal: <a href="http://estherac.github.io">http://estherac.github.io</a></p></div>
