@@ -1,32 +1,27 @@
 # Site settings
-title: raulperula
-email: raul.perula@robotronica.com
-url: http://raulperula.github.io
+title: estheracosta
+email: e.acostacumplido@gmail.com
+url: http://estherac.github.io
 phone: +34
-description: "Personal website of Raúl Pérula-Martínez, Software Engineer and Roboticist. He works at the Robotronica division at Juguetronica Inc., Madrid, Spain."
-owner: Raúl Pérula-Martínez
-aboutA: "Personal website of Raúl Pérula-Martínez, Software Engineer and Roboticist. He works at the Robotronica division at Juguetronica Inc., Madrid, Spain."
-aboutB: "Raúl has a more than 8-year R&D experience in software and robotics development, working with the most advanced social and humanoid robots out there. He is mainly working on software engineering and machine learning applied to service robotics. His deep knowledge of many programming languages as well as machine learning framework has been mainly used for project management, robotics architecture development, and artificial intelligence."
+description: "Web personal de Esther Acosta Cumplido, Bióloga especializada en Virología Humana. Actualmente en búsqueda activa de trabajo, Madrid, España."
+owner: Esther Acosta Cumplido
+aboutA: "Web personal de Esther Acosta Cumplido, Bióloga especializada en Virología Humana. Actualmente en búsqueda activa de trabajo, Madrid, España."
+aboutB: "Esther tiene experiencia..."
 blog: ""
-keywords: [Raul,Perula,raules,software,robotics,engineer,researcher,phd,social robot,maggie robot,human robot interaction,hri,asrob,ieee]
+keywords: [Esther Acosta,estherac,biologia,virologia,investigacion,phd]
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: linkedin
-    url: http://www.linkedin.com/in/raulperula
+    url: https://www.linkedin.com/in/esther-acosta-cumplido/
   - title: github
-    url: https://github.com/raulperula
+    url: https://github.com/estherac
   - title: twitter
-    url: https://twitter.com/raulperula
-  - title: google-plus
-    url: https://plus.google.com/+RaulPM
+    url: https://twitter.com/acosta_cumplido
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Robotronica
-  - line: (+34) 914 478 808 Ext. 215
-  - line: C/ Alberto Aguilera, 7
-  - line: 28015 Madrid, Spain
+  - line: Madrid, Spain
 
 # Build settings
 markdown: kramdown
@@ -42,8 +37,8 @@ color:
 # 
 # ALTERNATIVE 0
   articletext: 4e4e4e                     # This is the text color
-  primary: c4e59c                         # This is the gray color with a green tint
-  secondary: 84ad52                       # This is the green color
-  secondary-dark: 6e9145                  # This is the dark green color
-  secondary-alpha: rgba(132,173,82,.7)    # This is the same as the secondary color but with an alpha value
+  primary: 9ad2e4                         # This is the gray color with a green tint
+  secondary: 5296ad                       # This is the green color
+  secondary-dark: 457e92                  # This is the dark green color
+  secondary-alpha: rgba(132,82,173,.7)    # This is the same as the secondary color but with an alpha value
   tertiary: 7a3bff                        # This is purple
