@@ -2,10 +2,10 @@
 layout: post-cv
 title: Curriculum Vitae
 category: cv
-description: "PhD in Robotics (SW Eng., Machine Learning, HRI)"
+description: "Bióloga especializada en Virología Humana"
 article: yes
 permalink: cv.html
-tags: [cv,personal,resume,curriculum,online,pdf,research,design,universidad de cordoba,uco,universidad carlos iii,uc3m,phd,yale,university,software,engineer]
+tags: [cv,personal,resume,curriculum,online,pdf,research,design,universidad de cordoba,uco,universidad autonoma madrid, uam,universidad complutense madrid, ucm,phd,university,virology,biology]
 
 skills:
  - name: Software Engineering
