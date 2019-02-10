@@ -10,7 +10,7 @@
         <div id="article">
             {{ content }}
 
-            <h2>Professional Experience</h2>
+            <h2>Experiencia Profesional</h2>
             {% for item in page.professional %}
                 <div class="row cv-item">  
                     <div class="col-sm-4">
@@ -31,7 +31,7 @@
                 </div>
             {% endfor %}
 
-            <h2>Education</h2>
+            <h2>Educación</h2>
             {% for college in page.education %}
                 <div class="row cv-item">  
                     <div class="col-sm-4">
@@ -52,7 +52,7 @@
                 </div>
             {% endfor %}
 
-            <h2>Publications</h2>
+            <h2>Publicaciones</h2>
             {% for item in page.publications %}
                 <div class="row cv-item">  
                     <div class="col-sm-4">
@@ -72,7 +72,7 @@
                 </div>
             {% endfor %}
 
-            <h2>Misc</h2>
+            <h2>Miscelaneo</h2>
             {% for item in page.misc %}
                 <div class="row cv-item">  
                     <div class="col-sm-4">
@@ -92,7 +92,7 @@
                 </div>
             {% endfor %}
 
-            <h2>Skills and Technical Expertise</h2>  
+            <h2>Habilidades</h2>  
             {% for skill in page.skills %}
             <div class="row cv-item">
                 <div class="col-sm-12">
@@ -116,7 +116,7 @@
             </div>
             {% endfor %}
 
-            <p class="only-print" style="border-left: 10px solid #{{ site.color.primary }}; padding-left: 10px; margin-top: 20px;">This CV has been auto generated from the correspondent page on my personal website. For this reason, please forgive me in advance if there are some formatting problems. Compilation Date: <i>{{ page.date | date: '%B %d, %Y' }}.</i></p>
+            <p class="only-print" style="border-left: 10px solid #{{ site.color.primary }}; padding-left: 10px; margin-top: 20px;">Este CV ha sido auto generado de la correspondiente página en mi web personal. Por esta razón, por favor no tenga en cuenta cualquier problema de formato. Fecha de compilación: <i>{{ page.date | date: '%B %d, %Y' }}.</i></p>
         </div>
     </div>
 </section>
