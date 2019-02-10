@@ -47,93 +47,21 @@ skills:
       knowledge: 70
 
 professional:
- - name: Chief Technology Officer
-   title: CTO @ <a href="http://www.robotronica.com" target="_blank">Robotronica (a Juguetronica division)</a>
-   start: Dec. 2017
-   end: Present
+ - name: Divulgadora científica
+   title: Editorial Reviewer @ <a href="https://paciente-zero.blogspot.com/" target="_blank">Paciente Zero</a>
+   start: Dec. 20XX
+   end: Actualidad
    location: Madrid, ES
    location-link: 
-   description: AI Project Manager, R&D Project Manager, Robotics Project Manager, Software Architect, Technical Support Manager.
-   
- - name: Postdoctoral Research Fellow and Teaching Assistant
-   title: Roboticist and Soft. Engineer @ Social Robots Group (RoboticsLab), Department of Systems Engineering and Automation 
-   start: Sep. 2017
-   end: Dec. 2017
-   location: University Carlos III of Madrid (UC3M), Madrid, ES
-   location-link: http://roboticslab.uc3m.es/
-   description: See the <a href="/teaching.html" target="_self">Teaching</a> section for more information about my teaching career.
-   
- - name: Chief Technology Officer & Founding Member
-   title: CTO @ <a href="https://crea-robotica.com/" target="_blank">CREA Robótica Educativa (Educational Robotics)</a>
-   start: Sep. 2015
-   end: Dec. 2017
-   location: Science Park, University Carlos III of Madrid (UC3M), Madrid, ES
-   location-link: http://portal.uc3m.es/portal/page/portal/investigacion/parque_cientifico/empresas/vivero/directorio_empresas/CREA-Robotica-Educativa
-   description: Responsible of the software development and research departments. Part of the team of teachers responsible for training other teachers from schools. <br><b>Projects</b><br> During this period, I have involved in the ProtoCREA educational robot project and the Extracurricular material methodology for teaching teachers and children project. <br><b>Tasks</b><br> Identify technological opportunities and risks for the business. Manage research and development (R&D). Monitor technology and social trends that could impact the company. Participate in management decisions about corporate governance. Manage the company's technology strategy. Maintain information about technology standards and compliance regulations. Scrum Manager. <br><b>Tools</b><br> Trello. 
-   
- - name: Google Summer of Code 2017 participant with University Rey Juan Carlos I
-   title: Open Source Developer @ <a href="http://jderobot.org/Raulperula-colab" target="_blank">JdeRobot project</a>
-   start: May. 2017
-   end: Aug. 2017
+   description: "Descipción."
+
+ - name: Puesto
+   title: Responsabilidad @ Empresa
+   start: Dic. 20XX
+   end: Jun. 20XX
    location: Madrid, ES
    location-link: 
-   description: In a collaboration between the University Rey Juan Carlos I (URJC) and Google, the goal of this project is to explore the use of Scratch with robots, both simulated and real. JdeRobot is a project that allows and simplifies the use of them. We started with simulated robots in Gazebo, despite with real robots because the interfaces are the same. This project expected to develop a new tool prototype that reads Scratch programs and translate them into ROS-Python components. More info about the <a href="https://summerofcode.withgoogle.com/projects/#6344228931108864" target="_blank">GSoC project description</a>, and the <a href="http://jderobot.org/Raulperula-colab" target="_blank">Project Results</a>. <br><b>Tasks</b><br> Systems Analysis and Design (UML), Implementation (Python), Tests (unit test), Integration (git). Technichal writting. <br><b>Tools</b><br> Trello, Python, Scratch, Relational Databases, Git, ROS, Gazebo, Turtlebot robot, Parrot drone.
-   
- - name: Technical Editor
-   title: Editorial Reviewer @ <a href="http://www.aeroteconline.es/seccion/107/yorobot/" target="_blank">YoRobot Magazine</a>
-   start: Dec. 2016
-   end: Sep. 2017
-   location: Madrid, ES
-   location-link: 
-   description: Technical writer and responsible of reviewing the rest of articles.
-   
- - name: Visiting Assistance in Research
-   title: VAR @ Social Robotics Lab, Computer Science Department
-   start: Dec. 2015
-   end: Feb. 2016
-   location: Yale University, New Haven, CT, USA
-   location-link: http://scazlab.yale.edu
-   description: I did some research related to how to increase the interaction with users applying a probabilistic method for personalization in human-robot collaboration applied to teach children. <br><b>Tasks</b><br> Systems Analysis and Design (UML), Implementation (Python), Tests (unit test), Integration (git), and Scrum. Technichal writting. <br><b>Tools</b><br> Trello, Python, Relational Databases, Git, ROS, Socially Interactive Robots, Arduino, RaspberryPi.
-
- - name: Ph.D. Fellow and Teaching Assistant
-   title: Research and Teaching Assistant @ Social Robots Group (RoboticsLab), Department of Systems Engineering and Automation 
-   start: Sep. 2012
-   end: Aug. 2017
-   location: University Carlos III of Madrid (UC3M), Madrid, ES
-   location-link: http://roboticslab.uc3m.es/
-   description: I worked as a Software Architect in order to develop a complete robotic architecture for Socially Interactive Robots. See the <i>`Education`</i> section below for details about my PhD project. See the <a href="/teaching.html" target="_self">Teaching</a> section for more information about my teaching career. <br><b>Projects</b><br> During this period, I have involved in the <a href="http://monarch-fp7.eu/" target="_blank">MOnarCH - Multi-Robot Cognitive Systems Operating in Hospitals FP7-ICT-2011-9-601033</a> project funded by the European Union Seventh Framework Program. Besides, I participated on the <a href="http://www.robocity2030.org/" target="_blank">RoboCity2030-III-CM (Robótica aplicada a la mejora de la calidad de vida de los ciudadanos. fase III; S2013/MIT-2748)</a> and the <a href="http://roboticslab.uc3m.es/roboticslab/project/applications-social-robots" target="_blank">Applications of Social Robots</a> national projects. <br><b>Tasks</b><br> Analysis, Design (UML), Implementation (C++ and Python mainly), Tests (unit test and mocks), Integration (jenkins, git, svn among others), and iterative life cycle. Team management between 3 and 10 people. Technichal writting. <br><b>Tools</b><br> Trello, Eclipse, MySQL, C++, Python, Threads, Matlab, Google Test, Google Mock, Jenkins, Git, SVN, Android, Qt, QML, ROS, C.
-
- - name: Chairman IEEE Student Branch
-   title: Project Manager @ Robotics Society & IEEE Student Branch (ASROB)
-   start: Jan. 2014
-   end: Feb. 2016
-   location: University Carlos III of Madrid (UC3M), Madrid, ES
-   location-link: http://ieee.uc3m.es/
-   description: Founder of the RPC group and Chairman of the IEEE Student Branch. <br><b>Projects</b><br> During this period, I coordinated the <a href="http://ieee.uc3m.es/index.php/Impresora-3D_Open_Source" target="_blank">Open Source 3D Printers</a>, the <a href="http://ieee.uc3m.es/index.php/RPC" target="_blank">RPC (Robots for People and Competitions)</a>, and the <a href="http://asrob.uc3m.es/index.php/School_of_Robots" target="_blank">School of Robots</a> projects. <br><b>Tasks</b><br> Analysis, Design (UML), Implementation (C++ and Python mainly), Tests (unit test and mocks), Integration (git, and svn among others), and agil life cycle. Team management between 5 and 20 people. Technichal writting. Scrum Master. <br><b>Tools</b><br> Trello, C++, Python, Arduino, Scratch, RaspberryPi, Relational Databases, Git, ROS, Gazebo, Competition and Educational printable robots.
-   
- - name: Research Fellow
-   title: Research Assistant and IT Engineer @ <a href="http://www.handle-project.eu/" target="_blank">HANDLE Project</a>
-   start: Feb. 2012
-   end: Sep. 2012
-   location: University Carlos III of Madrid (UC3M), Madrid, ES
-   location-link: http://www.uc3m.es
-   description: See the <i>`Education`</i> section below for details about my master thesis. <br><b>Projects</b><br> During this period, I have involved in the <a href="http://www.handle-project.eu/" target="_blank">HANDLE - Developmental pathway towards autonomy and dexterity in robot in-hand manipulation FP7-ICT-2007-3-231640</a> project funded by the European Union Seventh Framework Program. <br><b>Tasks</b><br> Systems Analysis and Design (UML), Implementation (C++), Tests (unit test), Integration (svn), and agil life cycle. Technichal writting. <br><b>Tools</b><br> C++, Python, HTML, CSS, Wordpress, Relational Databases, SVN, ROS, OpenCV, RVIZ, Gazebo, OpenRAVE, Mitsubishi PA10 industrial robot, HANDLE robotic hand, RGBD camera Microsoft Kinect.
-
- - name: Jr. Software Engineer 
-   title: UX/UI Engineer @ Mirada PLC
-   start: Aug. 2011
-   end: Feb. 2012
-   location: Mirada PLC, Madrid, ES
-   location-link: http://www.mirada.tv/
-   description: I implemented a set of interactive TV applications using QML and Qt technologies. <br><b>Projects</b><br> During this period, I have involved in the <a href="http://www.euskaltel.com/" target="_blank">Euskaltel</a> and the <a href="http://www.cablecom.com.mx/" target="_blank">Cablecom</a> projects for cable television. <br><b>Tasks</b><br> Analysis, Design (UML), Implementation (C++, Qt, QML), Tests (unit test), Integration (mercurial), and agil life cycle. Technichal writting. <br><b>Tools</b><br> C++, Threads, MIPS, Qt, QML, Relational Databases, Java, Mercurial, Embeded systems.
-
- - name: Research Fellow
-   title: Machine Learning Engineer @ Learning and Artificial Neural Networks AYRNA, Computer Science Department
-   start: Sep. 2010
-   end: Jun. 2010
-   location: University of Cordoba (UCO), Cordoba, ES
-   location-link: http://www.uco.es/grupos/ayrna/index.php/en
-   description: I implemented a set of libraries with Matlab for Ordinal Classification using Artificial Neural Networks. <br><b>Tasks</b><br> Analysis, Design (UML), Implementation (C++ and Matlab), Tests (unit test), Integration (svn), and iterative life cycle. Technichal writting. <br><b>Tools</b><br> Matlab, C++, Java, SVN, Threads.
+   description: "Descripción."
 
 education:
  - name: Ph.D. in Robotics
