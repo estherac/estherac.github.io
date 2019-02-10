@@ -404,20 +404,19 @@ misc:
 
 <div><p class="only-print">GitHub Page: <a href="http://github.com/raulperula">http://github.com/raulperula</a></p></div>
 
-## Who am I
+## Quien soy
 
-Enthusiastic and skillful Software Engineer and Roboticist with more than 8 years in software development and research experience, and a proven publication track record. Motivated by intellectually challenging projects as well as personal achievements. I love to keep learning every day and to find new goals to motivate myself. I am capable of pursuing individual R&D, but I particularly prefer to be part of a team with bright people working toward ambitious ideas. I love being a perfectionist and hardworking person toward the realization of highly innovative tasks.
+Describete.
 
-## Me at a glance
+## Resumen de aptitudes
 
- * **Python and C++ developer**, with a fine knowledge of software engineering methodologies, continuous integration, and analytics software libraries.
- * **Robotics Engineer** with more than _5 years full-time experience_ with some of the most advanced social robots out there, the research robot [Maggie](http://wiki.ros.org/Robots/Maggie), and the humanoid robots [Pepper](https://www.softbankrobotics.com/emea/en/robots/pepper) and [NAO](https://www.softbankrobotics.com/emea/en/robots/nao). Considerable background employing the ROS framework (from "electric" version), developing from low-level implementation (i.e. drivers) to high-level skills (i.e. decision-making, NLP, machine learning), managing the deployment process.
- * **Researcher** with interests about: software engineering methodologies, social interactive robots, educational robots, decision-making, and machine learning among others. For more information about my research history check my [Google Scholar](https://scholar.google.es/citations?user=5-9VRawAAAAJ&hl=es), [ResearchGate](https://www.researchgate.net/profile/Raul_Perula-Martinez/), or [ORCID](http://orcid.org/0000-0002-3991-9546) profiles.
- * Some of my works are available to download at my [GitHub page](http://github.com/raulperula/). And also in the [Social Robots GitHub Organization](https://github.com/UC3MSocialRobots) or the [ASROB GitHub Organization](https://github.com/asrob-uc3m).
- * GNU/Linux user with more than _10 years experience_, and Open Source contributor with some helpful scripts.
+ * **Investigadora** con intereses sobre: .
+ * **Divulgadora científica**, .
+ * **Viróloga** con más de _2 años de experiencia_ trabajando con Fagos.
+ * Otras cosas que destacar.
 
-## Summary
+## Resumen
 
-Raúl Pérula-Martínez was born in Cordoba, Spain, 1988. He received his BSc in [Technical Engineering in Computer Science Systems](http://www.uco.es/eps/node/87) at the [University of Cordoba](http://www.uco.es/) in 2009. In 2011 he completed another BSc in [Computer Science Engineering](http://www.uco.es/eps/node/99) in the same university. While he was working as Jr. Software Engineer for the company Mirada PLC, he finished his MSc in Robotics and Automation at the [University Carlos III of Madrid](http://www.uc3m.es/) in 2013. In 2012, he started as a member of the [Robotics Society and IEEE Student Branch](http://ieee.uc3m.es/) at the UC3M, being the _Chairman_ since 2014.
-From 2013 to 2017, he was working in his Ph.D. in _Robotics_ at the same university. During this time he was working in the _Social Robots_ group at the _RoboticsLab_, UC3M. The goal of his Ph.D. project was to exploit insights from neuroscience and psychology in order to implement a model of a Cognitive Architecture including a **Decision-Making** system for Socially Interactive Robots. He was also teacher of some subjects related to Robotics and Computer Science.
-He also collaborated as a Visiting Assistance in Research at the [Social Robotics Lab](http://scazlab.yale.edu/) in Yale University.
+Esther Acosta Cumplido nació en Córdoba, España, 1989. Ella obtuvo su Grado en Biología por la [Universidad de Córdoba](http://www.uco.es/) in 20XX. En 20XX completó su Máster en Virología especializada en Humanos en la Universidad Complutense de Madrid.
+Desde 2013 hasta 2017, blablabla.
+Además, blablabla.
