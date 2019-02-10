@@ -8,126 +8,43 @@ permalink: cv.html
 tags: [cv,personal,resume,curriculum,online,pdf,research,design,universidad de cordoba,uco,universidad autonoma madrid, uam,universidad complutense madrid, ucm,phd,university,virology,biology]
 
 skills:
- - name: Software Engineering
+ - name: Técnicas Laboratorio
    items:
-    - name: Pattern Design
+    - name: PCR
       knowledge: 90
-    - name: UML Diagramming
-      knowledge: 80
-    - name: Agile Development
-      knowledge: 70
-    - name: Artificial Vision
-      knowledge: 70
-      
- - name: Project Management
+
+ - name: Virus
    items:
-    - name: Agile Management Software (Trello, Kanban)
+    - name: Fagos
       knowledge: 95
-    - name: Software Development Tools (Jira, Trac)
-      knowledge: 80
-    - name: Continuous Integration (Jenkins, Travis, GitLab)
-      knowledge: 60
-    - name: MS Project
-      knowledge: 50
-    - name: Slack
-      knowledge: 50
-      
- - name: Programming
+
+ - name: Programación
    items:
-    - name: Python
-      knowledge: 95
-    - name: C / C++ (STL)
-      knowledge: 95
-    - name: Matlab
-      knowledge: 95
-    - name: Scratch
-      knowledge: 95
-    - name: SQL
-      knowledge: 85
-    - name: Bash (and Shell Script)
-      knowledge: 80
-    - name: Qt & QML
-      knowledge: 80
-    - name: CMake (and Makefile)
-      knowledge: 80
-    - name: CUDA (and OpenCL)
-      knowledge: 70
-    - name: OpenCV
-      knowledge: 60
-    - name: MPI (and OpenMP)
-      knowledge: 60
-    - name: CSS3 & HTML5
+    - name: R
       knowledge: 50
 
- - name: Documentation
+ - name: Documentación
    items:
-    - name: LaTeX
+    - name: Microsoft Office
       knowledge: 95
     - name: Google Docs
       knowledge: 95
-    - name: Doxygen
-      knowledge: 80
-    - name: Sphinx / Epydoc
-      knowledge: 80
-
- - name: Robots & Platforms
-   items:
-    - name: ROS (from hydro to kinetic version)
-      knowledge: 95
-    - name: PrintBots (Arduino, RPI)
-      knowledge: 95
-    - name: Social Robots (Maggie, Mini, MBot)
-      knowledge: 95
-    - name: Robotics Manipulators (PA10, Kuka, Shadow Hand)
-      knowledge: 90
-    - name: 3D Printers (Prusa, XYZ, LEON3D, ZMorph)
-      knowledge: 80
-    - name: Simulators (Gazebo, Rviz, Webots)
-      knowledge: 80
-    - name: PR2 Robot (simulation)
-      knowledge: 50
-    - name: NAO/Pepper robot (simulation)
-      knowledge: 50
-      
- - name: Versioning Systems
-   items:
-    - name: Git (GitHub, GitLab)
-      knowledge: 95
-    - name: Subversion (Sourceforge)
-      knowledge: 90
-    - name: Mercurial
-      knowledge: 80
-      
- - name: Mobile Devices
-   items:
-    - name: MIT App Inventor
-      knowledge: 95
-    - name: Android Development
-      knowledge: 50
        
  - name: OS / Software
    items: 
-    - name: Ubuntu GNU/Linux
-      knowledge: 95
     - name: Microsoft Windows
       knowledge: 90
     - name: macOS
       knowledge: 90
-    - name: Eclipse
-      knowledge: 90
-    - name: Dia Diagram Editor
-      knowledge: 90
     - name: Gimp
-      knowledge: 60
+      knowledge: 80
       
  - name: Languages
    items:
     - name: Spanish
       knowledge: 99
     - name: English
-      knowledge: 85
-    - name: French
-      knowledge: 50
+      knowledge: 70
 
 professional:
  - name: Chief Technology Officer
@@ -398,11 +315,9 @@ misc:
    description: "Half-day workshop @Robocity13 Conference. The goal of the workshop was to <i>introduce all ages students in robotics</i>. In this way, they had to solve a simple problem in a specific time using Arduino."
 ---
 
-<div><p class="only-print">Personal Website: <a href="http://raulperula.github.io">http://raulperula.github.io</a></p></div>
+<div><p class="only-print">Web personal: <a href="http://estherac.github.io">http://estherac.github.io</a></p></div>
 
-<div><p class="only-print">LinkedIn Page: <a href="http://www.linkedin.com/in/raulperula">http://www.linkedin.com/in/raulperula</a></p></div>
-
-<div><p class="only-print">GitHub Page: <a href="http://github.com/raulperula">http://github.com/raulperula</a></p></div>
+<div><p class="only-print">LinkedIn: <a href="http://www.linkedin.com/in/esther-acosta-cumplido">http://www.linkedin.com/in/esther-acosta-cumplido</a></p></div>
 
 ## Quien soy
 
@@ -415,7 +330,7 @@ Describete.
  * **Viróloga** con más de _2 años de experiencia_ trabajando con Fagos.
  * Otras cosas que destacar.
 
-## Resumen
+## Bio
 
 Esther Acosta Cumplido nació en Córdoba, España, 1989. Ella obtuvo su Grado en Biología por la [Universidad de Córdoba](http://www.uco.es/) in 20XX. En 20XX completó su Máster en Virología especializada en Humanos en la Universidad Complutense de Madrid.
 Desde 2013 hasta 2017, blablabla.
