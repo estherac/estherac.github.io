@@ -76,14 +76,14 @@ education:
    end: 2020
    location: Universidad Camilo José Cela, Madrid, ES
    location-link: 
-   description: "Nota media: 9.66 sobre 10. Obtención del título de Auditor Interno."
+   description: "Obtención del título de Auditor Interno. Nota media: 9.66 sobre 10."
 
- - name: Máster en Virología (Especialización en Virología Humana y Microorganismos)
+ - name: Máster en Virología
    start: 2015
    end: 2016
    location: Universidad Complutense de Madrid, Madrid, ES
    location-link: 
-   description: "Nota media: 8.92 sobre 10."
+   description: "Especialización en Virología Humana y Microorganismos. Nota media: 8.92 sobre 10."
 
  - name: Grado en Biología
    start: 2011
