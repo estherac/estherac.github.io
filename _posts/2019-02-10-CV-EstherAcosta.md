@@ -122,19 +122,20 @@ misc:
 
 <div><p class="only-print">LinkedIn: <a href="http://www.linkedin.com/in/esther-acosta-cumplido">http://www.linkedin.com/in/esther-acosta-cumplido</a></p></div>
 
-## Who I am
+## Sobre mí
 
-Describete.
+Cuando era pequeña tenía tantas preguntas que siempre quise ser un poco de todas las profesiones. Al final, la Biología fue lo que me motivó a conocer mejor este mundo y resolver todas mis dudas. No obstante, el estado actual de la ciencia me ha hecho aceptar la nueva realidad y replantearme mi camino, queriendo dar un giro a mi carrera.
+
+La capacidad de reinventarnos empleando habilidades que ya tenías a través de la tecnología ha sido la manera de adquirir otra habilidad vital para encontrar la felicidad y la realización profesional. Y, haciendo un reskilling para convertirme en Diseñadora UX/UI lo he conseguido.
 
 ## Resumen de aptitudes
 
- * **Investigadora** con intereses sobre: .
- * **Divulgadora científica**, .
- * **Viróloga** con más de _2 años de experiencia_ trabajando con Fagos.
- * Otras cosas que destacar.
+ * **Investigación y desarrollo** 
+ * **Divulgación científica**
+ * **Diseño de experiencia de usuario (UX)** 
+ * **Diseño de interfaces (UI)** 
+ * **Diseño de productos** 
 
 ## Bio
 
-Esther Acosta Cumplido nació en Córdoba, España, 1989. Ella obtuvo su Grado en Biología por la [Universidad de Córdoba](http://www.uco.es/) in 20XX. En 20XX completó su Máster en Virología especializada en Humanos en la Universidad Complutense de Madrid.
-Desde 2013 hasta 2017, blablabla.
-Además, blablabla.
+Soy de Córdoba, España, 1989. Obtuve el grado en Biología por la [Universidad de Córdoba](http://www.uco.es/) in 2015. En 2016 completé un Máster en Virología en la Universidad Complutense de Madrid. Actualmente estoy cursando un bootcamp en diseño UX/UI, haciendo un reskilling para convertir mi pasión en profesión.
