@@ -2,7 +2,7 @@
 layout: post-cv
 title: Curriculum Vitae
 category: cv
-description: "Bióloga especializada en Virología Humana"
+description: "UX/UI Designer"
 article: yes
 permalink: cv.html
 tags: [cv,personal,resume,curriculum,online,pdf,research,design,universidad de cordoba,uco,universidad autonoma madrid, uam,universidad complutense madrid, ucm,phd,university,virology,biology]
@@ -64,21 +64,33 @@ professional:
    description: "Descripción."
 
 education:
- - name: Máster en Virología (Especialidad Humana)
-   title: Título tesis de máster `XXX`
-   start: 2014
-   end: 2015
+ - name: Bootcamp UX/UI Designer
+   start: 2021
+   end: Actualidad
+   location: NEOLAND, Madrid, ES
+   location-link: 
+   description: ""
+
+ - name: Máster en Calidad, Higiene y Seguridad Alimentaria
+   start: 2019
+   end: 2020
+   location: Universidad Camilo José Cela, Madrid, ES
+   location-link: 
+   description: "Nota media: 9.66 sobre 10. Obtención del título de Auditor Interno."
+
+ - name: Máster en Virología (Especialización en Virología Humana y Microorganismos)
+   start: 2015
+   end: 2016
    location: Universidad Complutense de Madrid, Madrid, ES
    location-link: 
-   description: "Descripción."
+   description: "Nota media: 8.92 sobre 10."
 
  - name: Grado en Biología
-   title: Título proyecto final de carrera `XXX`
-   start: 2009
-   end: 2013
+   start: 2011
+   end: 2015
    location: Universidad de Córdoba (UCO), Córdoba, ES
    location-link: 
-   description: "Descripción."
+   description: "Nota media: 7.5 sobre 10."
 
 publications:
  - title: "Título"
@@ -110,7 +122,7 @@ misc:
 
 <div><p class="only-print">LinkedIn: <a href="http://www.linkedin.com/in/esther-acosta-cumplido">http://www.linkedin.com/in/esther-acosta-cumplido</a></p></div>
 
-## Quien soy
+## Who I am
 
 Describete.
 
